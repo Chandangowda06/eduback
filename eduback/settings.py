@@ -30,6 +30,7 @@ INSTALLED_APPS = [
      'users',
      'courses',
     'corsheaders',
+    'Enroll',
     'rest_framework_simplejwt',
     'rest_framework_simplejwt.token_blacklist',
     'django.contrib.staticfiles',
